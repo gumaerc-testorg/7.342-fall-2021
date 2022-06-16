@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains descriptions of what was covered during each week
+  in class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
