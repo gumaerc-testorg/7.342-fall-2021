@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains links to the journal articles that students were
+  assigned to read during the semester.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: db02fb8f-2784-8eb9-d53c-72fe22be0540
 ---
@@ -29,7 +34,7 @@ readings
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L1summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L1summary" %}}
 
 
 {{< tdclose >}}
@@ -51,7 +56,7 @@ No Readings
 
 Immune Responses to Cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L2summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L2summary" %}}
 
 
 {{< tdclose >}}
@@ -75,7 +80,7 @@ Shankaran, V., H. Ikeda, A.T. Bruce, et al., 2001. [IFNγ and Lymphocytes Preven
 
 The Physical Basis of Cell Motility I
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L3summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L3summary" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +104,7 @@ Ponti, A., M. Machacek, S.L. Gupton, et al., 2004. [Two Distinct Actin Networks 
 
 The Physical Basis of Cell Motility II
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L4summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L4summary" %}}
 
 
 {{< tdclose >}}
@@ -123,7 +128,7 @@ Aratyn-Schaus, Y., and M.L. Gardel, 2010. [Transient Frictional Slip between Int
 
 Specialized Adhesions Formed by Immune Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L5summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L5summary" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +152,7 @@ Schlickum, S., H. Sennefelder, M. Friedrich, et al., 2008. [Integrin αE(CD103)�
 
 Modes of Cell Migration in and out of Confinement
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L6summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L6summary" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ No Readings
 
 Signals that Guide Immune Cell Motility
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L8summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L8summary" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Schumann, K., T. Lämmermann, M. Bruckner, et al., 2010. [Immobilized Chemokine 
 
 Integrating Start and Stop Signals in Immune Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L9summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L9summary" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +244,7 @@ Vargas, P., P. Maiuri, M. Bretou, et al., 2016. [Innate Control of Actin Nucleat
 
 Making Decisions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L10summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L10summary" %}}
 
 
 {{< tdclose >}}
@@ -263,7 +268,7 @@ Gérard, A., G. Patino-Lopez, P. Beemiller, et al., 2014. [Detection of Rare Ant
 
 Migration in Immune and Nonimmune Tissues
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L11summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L11summary" %}}
 
 
 {{< tdclose >}}
@@ -287,7 +292,7 @@ Engelhardt, J.J., B. Boldajipour, P. Beemiller, et al., 2012. [Marginating Dendr
 
 Cytoskeletal Regulation of Immune Cell Functions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L12summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L12summary" %}}
 
 
 {{< tdclose >}}
@@ -311,7 +316,7 @@ Basu, R., B.M. Whitlock, J. Husson, et al., 2016. [Cytotoxic T Cells Use Mechani
 
 Oral Presentations and Wrap-Up
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L13summary)
+{{% resource_link 0fd1b9d4-ade6-8890-9f59-8df0891241d7 "See the Lecture Summary" "#L13summary" %}}
 
 
 {{< tdclose >}}

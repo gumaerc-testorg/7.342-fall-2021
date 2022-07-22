@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on course format and objectives, and
+  a course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7ad701da-fb21-4ee4-f174-141e670cab04
 ---
@@ -16,9 +20,9 @@ There are no strict prerequisites, but some knowledge of genetics, biochemistry,
 
 _7.23J Immunology_
 
-_[7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007/)_
+_[7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007)_
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Course Description
 ------------------
