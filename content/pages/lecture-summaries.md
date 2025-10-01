@@ -148,7 +148,7 @@ The first paper for this week, by Friedl and colleagues (1998), is an early repo
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Jeff Kuhn, Director of the [Microscopy Core Facility](https://ki.mit.edu/sbc/microscopy) at the Koch Institute
+Guest Lecture: Jeff Kuhn, Director of the {{% resource_link "03767212-40d7-49ee-b949-89fe560b6226" "Microscopy Core Facility" %}} at the Koch Institute
 {{< tdclose >}}
 {{< tdopen >}}
 
